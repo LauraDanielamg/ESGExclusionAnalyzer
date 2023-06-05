@@ -1,0 +1,26 @@
+Index,company_name,industry,ADULT_ENTERTAINMENT,ALCOHOL_PRODUCTION,ALCOHOL_PARTICIPATION,ARMAMENT_PRODUCTION,ARMAMENT_PARTICIPATION,CHEM_AND_BIO_WEAPONS_PRODUCTION,CLUSTER_MUNITIONS_PRODUCTION,COAL_MINING_PRODUCTION,COAL_POWER_PRODUCTION,FIREARMS_PRODUCTION,GAMBLING_PRODUCTION,NUCLEAR_WEAPONS_PRODUCTION,RENEWABLE_POWER_PRODUCTION,TOBACCO_PRODUCTION,TOBACCO_PARTICIPATION
+1,Acme Corp.,Construction & Engineering,0,0,0,"(0,100]",0,0,"(0,100]",0,0,0,0,0,0,0,0
+2,"Aerospace Industry Co., Ltd.",Aerospace & Defense,0,0,0,"(50,100]",0,0,0,0,0,0,0,0,0,0,0
+3,APIRES GLOBAL PLC,Casinos & Gaming,0,0,0,0,0,0,0,0,0,0,"(25,50]",0,0,0,0
+4,AUTOMATIC TECHNOLOGIES LIMITED,Auto Parts & Equipment,0,0,0,0,"(25,50]",0,0,0,0,0,0,0,0,0,0
+5,Bestamax Oyj,Restaurants,"(0,5]",0,"(5,100]",0,0,0,0,0,0,0,"(0,5]",0,0,0,0
+6,"CEOC, LLC",Multi-Sector Holdings,0,0,"(0,5]",0,0,0,0,0,0,0,"(0,100]",0,0,0,0
+7,Cmomm N.V.,Integrated Telecommunication Services,"(0,5]",0,0,0,"(0,5]",0,0,0,0,0,0,0,0,0,0
+8,"Electric Power Company, Incorporated",Electricity generation utilities,"(0,5]",0,0,0,0,0,0,0,"(5,15]",0,0,0,"(15,25]",0,0
+9,GLOBEX CORPORATION,Trading Companies & Distributors,"(0,5]",0,"(0,5]",0,0,0,0,"(0,5]","(0,5]",0,0,0,"(0,5]",0,0
+10,INDUSTRIAL GOODS CORPORATION,Industrial Conglomerates,"(0,5]",0,"(0,5]",0,0,0,0,"(0,5]",0,0,0,0,0,0,0
+11,LAS VEGAS CORP.,Casinos & Gaming,"(0,5]",0,"(5,15]",0,0,0,0,0,0,0,"(50,100]",0,0,0,"(0,5]"
+12,Lavicrac Corporation,Travel Services,"(0,5]",0,"(0,5]",0,0,0,0,0,0,0,"(0,5]",0,0,0,"(0,5]"
+13,MELSTACORP PLC,Distillers & Vintners,0,"(50,100]",0,0,0,0,0,0,0,0,0,0,0,0,0
+14,MUNGAN CORPORATION,Diversified Metals & Mining,0,0,0,"(5,10]",0,0,0,0,0,"(5,10]",0,0,0,0,0
+15,PAT International Inc.,Tobacco,0,"(0,5]",0,0,0,0,0,0,0,0,0,0,0,"(50,100]",0
+16,Pizza Planet,Restaurants,0,0,"(0,5]",0,0,0,0,0,0,0,0,0,0,0,0
+17,Red Apple Cigarette Company Ltd,Tobacco,0,0,0,0,0,0,0,0,0,0,0,0,0,"(0,100]",0
+18,Sostelecom Telecommunications Co.,Integrated Telecommunication Services,"(0,5]",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,TA&A INC.,Integrated Telecommunication Services,"(0,5]",0,0,0,0,0,0,0,0,0,"(0,5]",0,0,0,0
+20,"Telecommunication Holding Co., Ltd.",Technology Distributors,"(0,5]","(0,5]",0,0,0,0,0,0,0,0,0,0,0,0,0
+21,THERSMATIC LIMITED,Aerospace & Defense,0,0,0,0,0,0,"(0,100]",0,0,0,0,0,0,0,0
+22,Water Corp Abp,Water Transportation,"(0,5]",0,"(0,5]",0,0,0,0,0,0,0,"(0,5]",0,0,0,0
+23,Wayne enterprises International,Multi-Sector Holdings,"(0,5]",0,"(0,5]",0,0,0,0,0,0,0,"(0,5]",0,0,0,0
+24,WETHERSPOON PLC,Restaurants,"(0,5]",0,"(5,100]",0,0,0,0,0,0,0,"(0,5]",0,0,0,"(0,5]"
+25,Whaha Corp,Aerospace & Defense,0,0,0,"(50,100]",0,0,0,0,0,0,0,0,0,0,0
